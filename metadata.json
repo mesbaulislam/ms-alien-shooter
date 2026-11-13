@@ -1,0 +1,6 @@
+{
+  "name": "MS Alien Shooter",
+  "description": "2D Isometric Sci-Fi Alien Action Shooter optimized for KaiOS 2.5.3.2 (Energizer E241S 240x320) with intelligent Auto-Fire, diamond-tile isometric rendering, and tactical progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

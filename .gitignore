@@ -1,0 +1,28 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+*.zip
+
+# Environment and secrets (never commit these)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+.DS_Store
+
+# AI Studio tooling metadata (not project source)
+.aistudio/
+
+# OS and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

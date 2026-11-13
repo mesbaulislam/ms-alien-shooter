@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "MS Alien Shooter",
+  "description": "2D Isometric Alien Action Shooter for KaiOS 2.5.3.2 (Energizer E241S 240x320)",
+  "launch_path": "/index.html",
+  "type": "web",
+  "fullscreen": "true",
+  "orientation": "portrait-primary",
+  "icons": {
+    "56": "/icon-56.png",
+    "112": "/icon-112.png"
+  },
+  "developer": {
+    "name": "MS Tactical Games"
+  },
+  "locales": {
+    "en-US": {
+      "name": "MS Alien Shooter",
+      "subtitle": "Tactical Isometric Alien Shooter",
+      "description": "Clear infested military outposts and research labs with intelligent auto-fire combat."
+    }
+  },
+  "default_locale": "en-US",
+  "cursor": false
+}
